@@ -17,3 +17,6 @@ How to learn English words and sentences for Thai speakers
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
+ 
+[Next]({{ site.baseurl }}{% link  split2/_posts/2015-07-26-Thai to english learn words sentences 1101 .md%})
+ 
